@@ -2,6 +2,20 @@
 
 一款面向摄影、户外、徒步和自驾旅行用户的本地照片管理工具。
 
+
+## 下载
+
+<p>
+  <a href="https://github.com/shikistudio/RhinoPhoto/releases/latest">
+    <img alt="下载最新版" src="https://img.shields.io/badge/下载最新版-v0.1.0-7CC7EA?style=for-the-badge&logo=windows&logoColor=white">
+  </a>
+</p>
+
+Windows 公开测试版已发布，安装包请从 Releases 页面下载：
+
+https://github.com/shikistudio/RhinoPhoto/releases/latest
+
+
 ![犀牛照片工坊主界面](2.jpg)
 
 每一次拍摄回来，我们都会带回几百甚至几千张照片。真正困难的往往不是拍摄，而是整理：
